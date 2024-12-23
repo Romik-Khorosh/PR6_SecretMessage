@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Secret Message</string>
+    <string name="welcome_text">Добро пожаловать в приложение Secret Message!
+        Используйте это приложение для шифрования секретного сообщения.
+        Нажмите кнопку «Пуск», чтобы начать.</string>
+    <string name="start">Запуск</string>
+    <string name="message_hint">Пожалуйста, введите ваше секретное сообщение</string>
+    <string name="next">Далее</string>
+    <string name="encrypt_text">Вот ваше зашифрованное сообщение:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
